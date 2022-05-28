@@ -76,7 +76,7 @@ $result3 = $db->query($smokebox);
       <hr>
   
       <h3>Smokeboxen</h3>
-          // HALLO 
+          // HALL
       <hr>
       <div class="row">
         <?php while($row = $result3->fetch()):?>
